@@ -67,8 +67,6 @@ nav a {
   font-size: 1.125rem;
 }
 
-
-
 main {
   padding: 0 1rem;
 }
@@ -160,4 +158,8 @@ footer {
 
 footer a {
   color: #000;
+}
+
+nav a:hover {
+  background-color: #960062;
 }
